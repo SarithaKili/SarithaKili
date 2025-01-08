@@ -1,7 +1,6 @@
 # Hi, I'm   Saritha 👋
 
-Welcome to my GitHub!
-I'm a passionate Software Engineer with a deep interest in **Machine Learning (ML)**, **Deep Learning (DL)**, **Augmented Reality (AR)**, and **Designing**. I love building innovative solutions and constantly exploring new technologies to improve my skills.
+# Welcome to my GitHub!
 
 ## 🔭 Currently Working On
 - Developing cutting-edge **Machine Learning** models for real-time applications.
