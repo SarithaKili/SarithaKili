@@ -1,25 +1,40 @@
-👋 Hi, I’m Saritha Kili  
+# Hi, I'm   Saritha 👋
 
-- 🌱 Currently a computer engineering undergraduate at UOJ, Sri Lanka.  
-- 💻 **Skills:**  
-  - 🔧 Dynamic Development  
-  - ⚙️ Static Development  
-  - 🎨 UI/UX Design  
-  - 🖥️ Product Design  
-  - 🌐 Virtual Reality UI/UX Design
-  - 
-- 💞️ Looking to collaborate on innovative product design and UI/UX projects that incorporate user feedback.  
-- 📫 How to reach me:  
-  - 📧 sarithasuji0325@gmail.com  
-  - 📧 sarithakili7@gmail.com
-  - 
-- 😄 Pronouns: Saritha
+Welcome to my GitHub!
+I'm a passionate Software Engineer with a deep interest in **Machine Learning (ML)**, **Deep Learning (DL)**, **Augmented Reality (AR)**, and **Designing**. I love building innovative solutions and constantly exploring new technologies to improve my skills.
 
-- 📚🖥️find my projects:
--  https://www.behance.net/sarisari10
--  https://www.linkedin.com/in/saritha-kili/
--                   
-- ⚡ Fun fact: I enjoy creating artwork, sculptures, and writing in my free time, though I mostly have no free time!  
-- 🎨 I believe in the power of design to enhance user experiences and make technology more accessible.  
-- 📚 I love reading about the latest trends in technology and design to stay inspired.  
-- 🌍 I enjoy nature walks, which inspire my creative projects.
+## 🔭 Currently Working On
+- Developing cutting-edge **Machine Learning** models for real-time applications.
+- Building **Augmented Reality** experiences to enhance user interaction.
+- Exploring **Deep Learning** techniques to solve complex problems.
+- Designing intuitive **UI/UX** for modern software applications.
+
+## 🌱 I'm currently learning
+- Advanced **Deep Learning** techniques 
+- **Augmented Reality** development with frameworks like ARKit and ARCore.
+- Modern **UI/UX design principles** and tools like Figma and Adobe XD.
+
+## 👨‍💻 Technologies & Tools
+- **Languages**: 
+  - Python 🐍
+  - JavaScript ⚡
+  - C++ 💻
+  - java🔥
+  
+- **Frameworks/Libraries**: 
+  - TensorFlow 🤖
+  - PyTorch 🔥
+  - OpenCV 👁️
+  - React ⚛️
+  - Node.js 🌐
+
+- **Tools**: 
+  - Git 🐙
+  - Docker 🐋
+  - Kubernetes ☸️
+  - Figma 🎨
+  - Adobe Photoshop 📸
+
+## 📫 How to reach me
+- Email: [your.email@example.com](sarithakili7@gmail.com)
+
