@@ -9,6 +9,7 @@
 - Designing intuitive **UI/UX** for modern software applications.
 
 ## 🌱 I'm currently learning
+- Advanced **LLM** development  
 - Advanced **Deep Learning** techniques 
 - **Augmented Reality** development with frameworks like ARKit and ARCore.
 - Modern **UI/UX design principles** and tools like Figma and Adobe XD.
@@ -35,5 +36,5 @@
   - Adobe Photoshop 📸
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](sarithakili7@gmail.com)
+- Email: [sarithakili7@gmail.com](sarithakili7@gmail.com)
 
